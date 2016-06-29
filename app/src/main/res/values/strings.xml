@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio5-CheckBox</string>
+    <string name="tv1">Ingrese el primer valor</string>
+    <string name="tv2">Ingrese el segundo valor</string>
+    <string name="tv3">Resultado</string>
+    <string name="button">Operar</string>
+    <string name="checkBox1">SUMAR</string>
+    <string name="checkBox2">RESTAR</string>
+
+</resources>
